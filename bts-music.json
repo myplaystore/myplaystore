@@ -1,7 +1,7 @@
 {
-	"isOnPlayStore": false,
+	"isOnPlayStore": true,
 	"isUrl": false,
-	"url": "https://google.com",
-	"isPackage": true,
-	"packageApp": "bts.kpop.magic.piano.music.tiles"
+	"url": "",
+	"isPackage": false,
+	"packageApp": ""
 }
