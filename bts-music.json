@@ -3,5 +3,5 @@
 	"isUrl": true,
 	"url": "https://google.com",
 	"isPackage": false,
-	"packageApp": ""
+	"packageApp": "com.abc"
 }
