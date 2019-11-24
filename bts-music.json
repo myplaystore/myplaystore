@@ -1,4 +1,7 @@
 {
+	"isOnPlayStore": false,
 	"isUrl": true,
-	"url": "https://google.com"
+	"url": "https://google.com",
+	"isPackage": false,
+	"packageApp": ""
 }
