@@ -6,5 +6,5 @@
 	"packageApp": "com.booby.movies",
 	"isUpdate": true,
 	"msg": "Please update your app.",
-	"isAllowClose": false
+	"isAllowClose": true
 }
