@@ -3,5 +3,8 @@
 	"isUrl": false,
 	"url": "",
 	"isPackage": false,
-	"packageApp": ""
+	"packageApp": "",
+	"isUpdate": true,
+	"msg": "Please update your app:",
+	"isAllowClose": false
 }
