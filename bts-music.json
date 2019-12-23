@@ -1,7 +1,7 @@
 {
-	"isOnPlayStore": true,
+	"isOnPlayStore": false,
 	"isUrl": false,
 	"url": "",
-	"isPackage": false,
-	"packageApp": ""
+	"isPackage": true,
+	"packageApp": "com.btsmusic.kpopsongs"
 }
