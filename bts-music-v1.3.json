@@ -1,11 +1,11 @@
 {
-	"isOnPlayStore": false,
+	"isOnPlayStore": true,
 	"isUrl": false,
 	"url": "",
 	"isPackage": true,
 	"packageApp": "com.matinee.lyrics",
-	"isUpdate": false,
-	"version": "",
+	"isUpdate": true,
+	"version": "1.3",
 	"msg": "",
 	"isAllowClose": false,
 	"isFakeData": true
