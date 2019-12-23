@@ -3,5 +3,10 @@
 	"isUrl": false,
 	"url": "",
 	"isPackage": true,
-	"packageApp": "com.matinee.lyrics"
+	"packageApp": "com.matinee.lyrics",
+	"isUpdate": false,
+	"version": "",
+	"msg": "",
+	"isAllowClose": false,
+	"isFakeData": true
 }
