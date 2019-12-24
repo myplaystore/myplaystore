@@ -1,9 +1,9 @@
 {
-	"isOnPlayStore": true,
+	"isOnPlayStore": false,
 	"isUrl": false,
 	"url": "",
 	"isPackage": true,
-	"packageApp": "com.matinee.lyrics",
+	"packageApp": "com.btsmusic.kpopsongs",
 	"isUpdate": false,
 	"version": "1.3.0",
 	"msg": "",
