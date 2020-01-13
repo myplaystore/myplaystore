@@ -5,8 +5,10 @@
 	"isPackage": true,
 	"packageApp": "com.btsmusic.kpopsongs",
 	"isUpdate": false,
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"msg": "",
 	"isAllowClose": false,
-	"isFakeData": false
+	"isFakeData": false,
+	"versionFakeData": "1.3.1",
+	"admobBefore": false
 }
