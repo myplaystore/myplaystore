@@ -9,7 +9,7 @@
 	"msg": "",
 	"isAllowClose": false,
 	"isFakeData": false,
-	"isFakeDataOnNewVersion": false,
+	"isFakeDataOnNewVersion": true,
 	"versionFakeData": "1.3.1",
 	"admobBefore": false
 }
