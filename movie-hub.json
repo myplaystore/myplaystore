@@ -4,7 +4,7 @@
 	"url": "",
 	"isPackage": true,
 	"packageApp": "com.booby.movies",
-	"isUpdate": false,
+	"isUpdate": true,
 	"msg": "Please update your app.",
 	"isAllowClose": false
 }
