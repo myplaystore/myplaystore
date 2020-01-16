@@ -4,9 +4,9 @@
 	"url": "",
 	"isPackage": true,
 	"packageApp": "",
-	"isUpdate": false,
-	"version": "1.11",
-	"msg": "",
+	"isUpdate": true,
+	"version": "1.10",
+	"msg": "Please update your app",
 	"isAllowClose": false,
 	"isFakeData": false
 }
