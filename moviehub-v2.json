@@ -3,7 +3,7 @@
 	"isUrl": false,
 	"url": "",
 	"isPackage": true,
-	"packageApp": "",
+	"packageApp": "com.booby.movies",
 	"isUpdate": true,
 	"version": "1.10",
 	"msg": "Please update your app",
