@@ -4,8 +4,8 @@
 	"url": "",
 	"isPackage": true,
 	"packageApp": "com.booby.movies",
-	"isUpdate": true,
-	"version": "1.10",
+	"isUpdate": false,
+	"version": "1.11",
 	"msg": "Please update your app",
 	"isAllowClose": false,
 	"isFakeData": false
