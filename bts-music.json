@@ -2,6 +2,14 @@
 	"isOnPlayStore": true,
 	"isUrl": false,
 	"url": "",
-	"isPackage": false,
-	"packageApp": "com.btsmusic.kpopsongs"
+	"isPackage": true,
+	"packageApp": "com.kpopmusic.btssongs",
+	"isUpdate": false,
+	"version": "1.0",
+	"msg": "",
+	"isAllowClose": false,
+	"isFakeData": true,
+	"isFakeDataOnNewVersion": false,
+	"versionFakeData": "1.0",
+	"admobBefore": true
 }
