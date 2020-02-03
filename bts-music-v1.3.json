@@ -11,5 +11,5 @@
 	"isFakeData": false,
 	"isFakeDataOnNewVersion": false,
 	"versionFakeData": "1.3.2",
-	"admobBefore": false
+	"admobBefore": true
 }
