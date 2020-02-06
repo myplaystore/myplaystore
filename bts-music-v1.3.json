@@ -1,6 +1,6 @@
 {
-	"isOnPlayStore": false,
-	"isUrl": true,
+	"isOnPlayStore": true,
+	"isUrl": false,
 	"url": "http://bit.ly/2vNEYyh",
 	"isPackage": false,
 	"packageApp": "com.btsmusic.kpopsongs",
