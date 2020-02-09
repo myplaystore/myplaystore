@@ -1,12 +1,12 @@
 {
-	"isOnPlayStore": true,
+	"isOnPlayStore": false,
 	"isUrl": false,
 	"url": "",
 	"isPackage": true,
 	"packageApp": "",
 	"isUpdate": false,
 	"version": "1.0",
-	"msg": "",
+	"msg": "AAA BBB CCC",
 	"isAllowClose": false,
 	"isFakeData": false
 }
