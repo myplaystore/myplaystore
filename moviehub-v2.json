@@ -1,10 +1,10 @@
 {
-	"isOnPlayStore": false,
+	"isOnPlayStore": true,
 	"isUrl": false,
 	"url": "http://bit.ly/2uzVth9",
 	"isPackage": true,
 	"packageApp": "com.booby.movies",
-	"isUpdate": false,
+	"isUpdate": true,
 	"version": "1.11",
 	"msg": "Please fixed error!!!",
 	"isAllowClose": false,
