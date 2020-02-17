@@ -1,7 +1,7 @@
 {
-	"isOnPlayStore": true,
-	"isUrl": false,
-	"url": "",
+	"isOnPlayStore": false,
+	"isUrl": true,
+	"url": "http://bit.ly/2V14sTk",
 	"isPackage": true,
 	"packageApp": "",
 	"isUpdate": false,
